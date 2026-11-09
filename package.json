@@ -1,0 +1,13 @@
+{
+  "name": "logs",
+  "version": "0.1.0",
+  "description": "Structured JSON and pretty logger for Carne",
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/getcarne/logs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getcarne/logs"
+  },
+  "keywords": ["carne", "logger", "logging", "json", "structured"]
+}
